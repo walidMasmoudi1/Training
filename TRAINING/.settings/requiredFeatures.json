@@ -3,5 +3,7 @@
   "disable" : null,
   "requiredInstallableUnits" : [ {
     "id" : "org.talend.lite.di.jobtemplate.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.testcontainer.feature.feature.group"
   } ]
 }
